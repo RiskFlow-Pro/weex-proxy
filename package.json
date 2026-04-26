@@ -1,0 +1,11 @@
+{
+  "name": "index-weex",
+  "version": "1.0.0",
+  "main": "node index-weex.js",
+  "scripts": {
+    "start": "node index-weex.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
